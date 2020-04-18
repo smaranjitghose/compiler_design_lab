@@ -12,7 +12,7 @@ Assignments done for Compiler Design Lab
 |6|Computation of Leading and Trailing sets|||
 |7|Construction of Predictive Parsing Table|[Solution](assignments_python/predictive_parsing.py)|[Solution](assignments_c/predictive_parsing.c)|
 |8|Implementation of Shift Reduce Parsing|||
-|9|Computation of LR(0) items |||
+|9|Computation of LR(0) items ||[Solution](assignments_c/lr0_parsing.c)|
 |10|Intermediate Code Generation: Three Address Code, Postfix, Prefix |[Solution](assignments_python/intermediate_code_generation.py)||
 
 
