@@ -13,7 +13,7 @@ This repository is a collection of the assignments done for Compiler Design Lab 
 |6|Computation of First and Follow sets|[Solution](assignments_python/first_and_follow.py)|[Solution](assignments_c/first_and_follow.c)|
 |7|Computation of Leading and Trailing sets|||
 |8|Construction of Predictive Parsing Table|[Solution](assignments_python/predictive_parsing.py)|[Solution](assignments_c/predictive_parsing.c)|
-|9|Implementation of Shift Reduce Parsing|||
+|9|Implementation of Shift Reduce Parsing||[Solution](assignments_c/shift_reduce_parsing.c)|
 |10|Computation of LR(0) items ||[Solution](assignments_c/lr0_parsing.c)|
 |11|Intermediate Code Generation: Three Address Code, Postfix, Prefix |[Solution](assignments_python/intermediate_code_generation.py)||
 
