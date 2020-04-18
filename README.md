@@ -15,3 +15,10 @@ Assignments done for Compiler Design Lab
 |9|Computation of LR(0) items |||
 |10|Intermediate Code Generation: Three Address Code, Postfix, Prefix |||
 
+
+# License 📜
+
+[MIT License](https://github.com/smaranjitghose/compiler_design_lab/blob/master/LICENSE)
+
+# **Crafted with ❤ by Smaranjit Ghose**
+
