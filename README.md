@@ -3,6 +3,8 @@
 This repository is a collection of the assignments done for Compiler Design Lab 15CS314J during Spring 2020 at SRM IST.
 Implementations are available in both Python 🐍 and  C ⚡ .
 
+# Assignments
+
 |Ex no.|Name|Solutions(Python)|Solutions(C)|
 |------|----|----------------|-----------|
 |1|Lexical Analyzer||[Solution](assignments_c/lex.c)|
@@ -16,6 +18,13 @@ Implementations are available in both Python 🐍 and  C ⚡ .
 |9|Implementation of Shift Reduce Parsing||[Solution](assignments_c/shift_reduce_parsing.c)|
 |10|Computation of LR(0) items ||[Solution](assignments_c/lr0_parsing.c)|
 |11|Intermediate Code Generation: Three Address Code, Postfix, Prefix |[Solution](assignments_python/intermediate_code_generation.py)|[Solution](assignments_c/intermediate_code.c)|
+
+# Report:
+
+[Google Drive Link](https://docs.google.com/document/d/18K_rdvtZs5UBhtMKsA4wFmtx9upEK1RxD1EflvPnqUA/edit?usp=sharing)
+
+[PDF Report](15CS314J_Compiler_Design_Lab_Report_RA1711003010738.pdf)
+
 
 # License 📜
 
