@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <conio.h>
 #include <string.h>
+
 void main()
 {
     char fin[10][20], st[10][20], ft[20][20], fol[20][20];
