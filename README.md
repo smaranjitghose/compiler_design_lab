@@ -1,7 +1,7 @@
 # Compiler Design Lab Assignments
 
 This repository is a collection of the assignments done for Compiler Design Lab 15CS314J during Spring 2020 at SRM IST.
-
+Implementations in both Python and  C are available
 
 |Ex no.|Name|Solutions(Python)|Solutions(C)|
 |------|----|----------------|-----------|
@@ -15,8 +15,7 @@ This repository is a collection of the assignments done for Compiler Design Lab 
 |8|Construction of Predictive Parsing Table|[Solution](assignments_python/predictive_parsing.py)|[Solution](assignments_c/predictive_parsing.c)|
 |9|Implementation of Shift Reduce Parsing||[Solution](assignments_c/shift_reduce_parsing.c)|
 |10|Computation of LR(0) items ||[Solution](assignments_c/lr0_parsing.c)|
-|11|Intermediate Code Generation: Three Address Code, Postfix, Prefix |[Solution](assignments_python/intermediate_code_generation.py)||
-
+|11|Intermediate Code Generation: Three Address Code, Postfix, Prefix |[Solution](assignments_python/intermediate_code_generation.py)|[Solution](assignments_c/intermediate_code.c)|
 
 # License 📜
 
