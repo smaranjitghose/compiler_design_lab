@@ -10,7 +10,7 @@ Assignments done for Compiler Design Lab
 |4|Elimination of Left Factoring|||
 |5| Computation of First and Follow sets|||
 |6|Computation of Leading and Trailing sets|||
-|7|Construction of Predictive Parsing Table|||
+|7|Construction of Predictive Parsing Table||[Solution](assignments_c/predictive_parsing.c)|
 |8|Implementation of Shift Reduce Parsing|||
 |9|Computation of LR(0) items |||
 |10|Intermediate Code Generation: Three Address Code, Postfix, Prefix |||
