@@ -1,6 +1,6 @@
 # Compiler Design Lab Assignments 📑
 
-This repository is a collection of the assignments done for Compiler Design Lab 15CS314J during Spring 2020 at SRM IST. Implementations in both C and Python is available
+This repository is a collection of the assignments done for Compiler Design Lab 15CS314J during Spring 2020 at SRM IST. Implementations in both Python and C is available
 
 
 |Ex no.|Name|Solutions(Python)|Solutions(C)|
