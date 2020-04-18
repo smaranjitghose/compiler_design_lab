@@ -25,6 +25,10 @@ Implementations are available in both Python 🐍 and  C ⚡ .
 
 [PDF Report](15CS314J_Compiler_Design_Lab_Report_RA1711003010738.pdf)
 
+# Supervior: 
+
+[Mrs. R. Anita](https://www.srmist.edu.in/engineering/dept-cse/faculty/r-anita) 
+
 
 # License 📜
 
