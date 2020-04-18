@@ -3,7 +3,7 @@
 This repository is a collection of the assignments done for Compiler Design Lab 15CS314J during Spring 2020 at SRM IST.
 
 
-|Ex no.|Name|Solution(python)|Solution(C)|
+|Ex no.|Name|Solutions(Python)|Solutions(C)|
 |------|----|----------------|-----------|
 |1|Lexical Analyzer|||
 |2|Regular Expression to NFA|[Solution](assignments_python/re_to_nfa.py)||
